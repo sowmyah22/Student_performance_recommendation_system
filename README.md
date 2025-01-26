@@ -37,4 +37,4 @@ The project is built using Python.
 
 ### 1. Clone the repository
 
-git clone 
+git clone :https://github.com/sowmyah22/Student_performance_recommendation_system.git
