@@ -16,7 +16,7 @@ The project is built using Python.
 
 1. **Data Ingestion**: 
    - The project uses two datasets: 
-     - *** Quiz Data**: Latest quiz submissions by students.
+     - **Quiz Data**: Latest quiz submissions by students.
      - **Historical Quiz Data**: Performance data for the last 5 quizzes for each student.
    - The data is converted  into a Pandas DataFrame from a API endpoint.
 
