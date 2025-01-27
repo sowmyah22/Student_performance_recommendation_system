@@ -4,7 +4,7 @@
 
 This project is designed to analyze quiz performance data of students and provide personalized recommendations to improve their preparation.The system generates insights that help pinpoint the student's strengths and weaknesses.
 
-The project is built using Python.
+This project is built using Python.
 
 ### Key Features:
 - Analyze quiz performance over multiple attempts.
